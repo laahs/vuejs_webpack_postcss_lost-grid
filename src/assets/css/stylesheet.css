@@ -1,0 +1,10 @@
+ /* 
+ @lost gutter 60px;
+.grid-item {
+  lost-column: 1/3;
+}
+*/
+
+.grid-item{
+	color:red;
+}
